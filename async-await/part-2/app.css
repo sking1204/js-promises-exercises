@@ -1,0 +1,13 @@
+.card-container {
+    position: relative;
+    display: inline-block;
+       /* Adjust the margin to create spacing between cards */
+    margin-right: 10px; 
+ 
+}
+
+.card-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
